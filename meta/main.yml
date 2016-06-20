@@ -12,10 +12,10 @@ galaxy_info:
   categories:
     - web
 dependencies:
-  - role: aeriscloud.repos
+  - role: AerisCloud.repos
     repositories:
       centos6:
         - nginx
       centos7:
         - nginx
-  - role: aeriscloud.yum
+  - role: AerisCloud.yum
